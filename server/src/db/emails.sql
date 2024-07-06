@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS emails;
+
+CREATE TABLE emails (
+  id SERIAL PRIMARY KEY,
+  email VARCHAR(100) UNIQUE,
+  link TEXT
+);
