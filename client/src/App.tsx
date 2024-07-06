@@ -38,7 +38,7 @@ function App() {
             gutterBottom
             className="text-gray-500  leading-[30px] text-center"
           >
-            You can add multiple urls to scrape emails from. <br />
+            Add url to scrape emails from. <br />
             You can check all scrapped emails
           </Typography>
         </div>
